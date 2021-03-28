@@ -1,0 +1,16 @@
+C:\Users\adeni\source\repos\projeto_compactador_arquivo\projeto_compactador_arquivo\bin\Debug\netcoreapp3.1\projeto_compactador_arquivo.exe
+C:\Users\adeni\source\repos\projeto_compactador_arquivo\projeto_compactador_arquivo\bin\Debug\netcoreapp3.1\projeto_compactador_arquivo.deps.json
+C:\Users\adeni\source\repos\projeto_compactador_arquivo\projeto_compactador_arquivo\bin\Debug\netcoreapp3.1\projeto_compactador_arquivo.runtimeconfig.json
+C:\Users\adeni\source\repos\projeto_compactador_arquivo\projeto_compactador_arquivo\bin\Debug\netcoreapp3.1\projeto_compactador_arquivo.runtimeconfig.dev.json
+C:\Users\adeni\source\repos\projeto_compactador_arquivo\projeto_compactador_arquivo\bin\Debug\netcoreapp3.1\projeto_compactador_arquivo.dll
+C:\Users\adeni\source\repos\projeto_compactador_arquivo\projeto_compactador_arquivo\bin\Debug\netcoreapp3.1\projeto_compactador_arquivo.pdb
+C:\Users\adeni\source\repos\projeto_compactador_arquivo\projeto_compactador_arquivo\obj\Debug\netcoreapp3.1\projeto_compactador_arquivo.csprojAssemblyReference.cache
+C:\Users\adeni\source\repos\projeto_compactador_arquivo\projeto_compactador_arquivo\obj\Debug\netcoreapp3.1\projeto_compactador_arquivo.Grouper.resources
+C:\Users\adeni\source\repos\projeto_compactador_arquivo\projeto_compactador_arquivo\obj\Debug\netcoreapp3.1\projeto_compactador_arquivo.Form1.resources
+C:\Users\adeni\source\repos\projeto_compactador_arquivo\projeto_compactador_arquivo\obj\Debug\netcoreapp3.1\projeto_compactador_arquivo.csproj.GenerateResource.cache
+C:\Users\adeni\source\repos\projeto_compactador_arquivo\projeto_compactador_arquivo\obj\Debug\netcoreapp3.1\projeto_compactador_arquivo.AssemblyInfoInputs.cache
+C:\Users\adeni\source\repos\projeto_compactador_arquivo\projeto_compactador_arquivo\obj\Debug\netcoreapp3.1\projeto_compactador_arquivo.AssemblyInfo.cs
+C:\Users\adeni\source\repos\projeto_compactador_arquivo\projeto_compactador_arquivo\obj\Debug\netcoreapp3.1\projeto_compactador_arquivo.csproj.CoreCompileInputs.cache
+C:\Users\adeni\source\repos\projeto_compactador_arquivo\projeto_compactador_arquivo\obj\Debug\netcoreapp3.1\projeto_compactador_arquivo.dll
+C:\Users\adeni\source\repos\projeto_compactador_arquivo\projeto_compactador_arquivo\obj\Debug\netcoreapp3.1\projeto_compactador_arquivo.pdb
+C:\Users\adeni\source\repos\projeto_compactador_arquivo\projeto_compactador_arquivo\obj\Debug\netcoreapp3.1\projeto_compactador_arquivo.genruntimeconfig.cache

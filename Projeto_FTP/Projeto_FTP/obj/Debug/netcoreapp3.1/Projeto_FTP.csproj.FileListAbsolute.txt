@@ -1,0 +1,16 @@
+C:\Users\adeni\source\repos\Projeto_FTP\Projeto_FTP\bin\Debug\netcoreapp3.1\Projeto_FTP.exe
+C:\Users\adeni\source\repos\Projeto_FTP\Projeto_FTP\bin\Debug\netcoreapp3.1\Projeto_FTP.deps.json
+C:\Users\adeni\source\repos\Projeto_FTP\Projeto_FTP\bin\Debug\netcoreapp3.1\Projeto_FTP.runtimeconfig.json
+C:\Users\adeni\source\repos\Projeto_FTP\Projeto_FTP\bin\Debug\netcoreapp3.1\Projeto_FTP.runtimeconfig.dev.json
+C:\Users\adeni\source\repos\Projeto_FTP\Projeto_FTP\bin\Debug\netcoreapp3.1\Projeto_FTP.dll
+C:\Users\adeni\source\repos\Projeto_FTP\Projeto_FTP\bin\Debug\netcoreapp3.1\Projeto_FTP.pdb
+C:\Users\adeni\source\repos\Projeto_FTP\Projeto_FTP\obj\Debug\netcoreapp3.1\Projeto_FTP.csprojAssemblyReference.cache
+C:\Users\adeni\source\repos\Projeto_FTP\Projeto_FTP\obj\Debug\netcoreapp3.1\Projeto_FTP.Form1.resources
+C:\Users\adeni\source\repos\Projeto_FTP\Projeto_FTP\obj\Debug\netcoreapp3.1\Projeto_FTP.csproj.GenerateResource.cache
+C:\Users\adeni\source\repos\Projeto_FTP\Projeto_FTP\obj\Debug\netcoreapp3.1\Projeto_FTP.AssemblyInfoInputs.cache
+C:\Users\adeni\source\repos\Projeto_FTP\Projeto_FTP\obj\Debug\netcoreapp3.1\Projeto_FTP.AssemblyInfo.cs
+C:\Users\adeni\source\repos\Projeto_FTP\Projeto_FTP\obj\Debug\netcoreapp3.1\Projeto_FTP.csproj.CoreCompileInputs.cache
+C:\Users\adeni\source\repos\Projeto_FTP\Projeto_FTP\obj\Debug\netcoreapp3.1\Projeto_FTP.dll
+C:\Users\adeni\source\repos\Projeto_FTP\Projeto_FTP\obj\Debug\netcoreapp3.1\Projeto_FTP.pdb
+C:\Users\adeni\source\repos\Projeto_FTP\Projeto_FTP\obj\Debug\netcoreapp3.1\Projeto_FTP.genruntimeconfig.cache
+C:\Users\adeni\source\repos\Projeto_FTP\Projeto_FTP\obj\Debug\netcoreapp3.1\Projeto_FTP.Properties.Resources.resources

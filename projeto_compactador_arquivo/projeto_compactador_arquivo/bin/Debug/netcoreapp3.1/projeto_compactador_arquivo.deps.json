@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "projeto_compactador_arquivo/1.0.0": {
+        "runtime": {
+          "projeto_compactador_arquivo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projeto_compactador_arquivo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
